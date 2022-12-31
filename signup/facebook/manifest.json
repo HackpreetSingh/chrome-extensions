@@ -1,0 +1,17 @@
+{
+  "manifest_version": 3,
+  "name": "Automated Form filler for github",
+  "description": "Fill github sign details.",
+  "version": "1.0",
+  "homepage_url": "https://github.com/login",
+  "action": {
+    "default_icon": "images/icon.png",
+    "default_title": "Start",
+    "default_popup": "index.html"
+  },
+  "permissions": ["scripting","tabs"],
+  "host_permissions": [
+    "http://*/*",
+    "https://*/*"
+  ]
+}
