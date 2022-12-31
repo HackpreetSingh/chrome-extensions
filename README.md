@@ -10,9 +10,9 @@
 - Install the Chrome browser
 - Download folder of that website from this github repo, which you want a chrome extension for. For example, if you want to have a chrome extension for github login, the navigate to : extensions => login => github and download this folder.
 - Go to the address: 
-'''
+```
 chrome://extensions
-'''
+```
 - Enable Developer mode (found on the top right of the screen)
 - Click the Load unpacked button and navigate to the folder, you downloaded earlier.
 - The extension should be installed and you can use it now!
