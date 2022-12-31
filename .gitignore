@@ -27,6 +27,3 @@ out/
 ### JavaScript ###
 node_modules
 .serverless
-
-### Nike ###
-cacerts
